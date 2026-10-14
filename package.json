@@ -1,0 +1,16 @@
+{
+  "name": "pwd-gen-4c",
+  "version": "0.1.1",
+  "description": "",
+  "license": "MIT",
+  "author": "Jakob Faschang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
